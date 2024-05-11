@@ -8,7 +8,6 @@ Prepare-se para uma aventura épica no mundo Pokémon! 🎉 Com este chatbot inc
 * **💪 Pesquisa por Habilidades:** Descubra o poder por trás de cada golpe! 🔥 Digite o nome de uma habilidade e o chatbot te contará tudo sobre seus efeitos e quais Pokémon podem usá-la. 
 * **💬 Interface de Chat:** Conversar com o chatbot é super fácil e divertido! 😄 É como ter um Pokédex falante te guiando em sua jornada.
 * **🌐 Integração com PokeAPI:**  O chatbot usa a PokeAPI para ter informações sempre atualizadas sobre o mundo Pokémon. 
-* **🗣️ Geração de Texto em Português:**  Aproveite uma experiência completa em português! 
 * **🖼️ Exibição de Imagens:**  Veja seus Pokémon favoritos em toda sua glória! 😍
 
 ### 💻 Tecnologias Utilizadas:
